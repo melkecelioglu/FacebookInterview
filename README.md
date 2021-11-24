@@ -8,7 +8,7 @@ SCHEDULE
 APPLICATION TIME 30 Aug 2021
 ASSESMENT 31 Aug 2021
 RECRUITER COVERSATION 13 Sept 2021
-TECHNICAL INTERVIEW 12 Sept 2021
+TECHNICAL INTERVIEW 12 Oct 2021
 
 **can not find assessment questions since I though I had not a chance to move into other stages..
 
